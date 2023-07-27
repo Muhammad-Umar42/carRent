@@ -10,7 +10,7 @@ const Banner = () => {
         className="bg-cover bg-no-repeat bg-center"
       >
         <div className="w-full max-w-[1280px] mx-[auto] p-4 pb-24 grid grid-cols-1 md:grid-cols-2">
-          <Fade top>
+          <Fade left > 
             <div>
               <div className="flex text-xl items-center justify-center text-gray-700 bg-white max-w-[480px] rounded-full py-3 ">
                 <BsHandThumbsUpFill className="text-orange-400" />
@@ -31,7 +31,7 @@ const Banner = () => {
               </button>
             </div>
           </Fade>
-          <Fade right>
+          <Fade right duration={3000}>
             <div>
               <img className="w-full" src="bannerCar.png" alt="" />
             </div>
