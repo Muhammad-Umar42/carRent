@@ -26,7 +26,7 @@ const Banner = () => {
                 industry. Lorem Ipsum has been the industry's standard dummy
                 text ever since the 1500s
               </p>
-              <button className="text-xl text-black border-black hover:border-orange-600 bg-white rounded-lg border-2  px-4 py-1 mt-4 hover:bg-orange-500 hover:text-white transition-colors duration-500">
+              <button className="text-xl text-black border-black hover:border-orange-400 bg-white rounded-lg border-2  px-4 py-1 mt-4 hover:bg-orange-500 hover:text-white transition-colors duration-500">
                 view all cars &#10509;
               </button>
             </div>

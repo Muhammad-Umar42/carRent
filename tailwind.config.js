@@ -6,13 +6,18 @@ module.exports = {
     './src/components/**/*.{js,ts,jsx,tsx,mdx}',
     './src/app/**/*.{js,ts,jsx,tsx,mdx}',
     'node_modules/preline/dist/*.jsx',
+    "./src/**/*.{html,js}"
+   
+
+    
+
     
   ],
   theme: {
     
   },
   plugins: [
-    require('preline/plugin'),
+    require('preline/plugin')
     
-],
+  ],
 }
