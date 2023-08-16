@@ -21,7 +21,7 @@ const PopularCar = () => {
       },
       {
         carname: "Revo",
-        carimage: "revo.jpg",
+        carimage: "Revo.jpg",
         carrating: "stars.jpg",
         desc: "revo is a popular car",
         rent: "80$",
