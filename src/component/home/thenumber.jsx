@@ -2,6 +2,8 @@ import React from 'react'
 import Cta from './cta';
 
 const Thenumber = () => {
+
+    
     const card = [
         {
             image:'heart.svg',
