@@ -71,7 +71,7 @@ const CarType = () => {
   };
   return (
     <div className="bg-[#fbfcfc]">
-      <div className="text-center pt-12 pb-20 w-full max-w-screen-2xl mx-[auto]">
+      <div className="text-center pt-12 pb-40 w-full max-w-screen-2xl mx-[auto]">
         <Cta title="Most Popular Cartypes" color="black" />
 
         <Slider className=" p-4" {...settings}>

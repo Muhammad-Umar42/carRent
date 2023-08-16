@@ -5,7 +5,7 @@ import { AiOutlineSearch } from "react-icons/ai";
 const Pickup = () => {
   return (
     <>
-      <div className="bg-[#fcfbfb] md:p-16 p-44 relative flex justify-center">
+      <div className="bg-[#fcfbfb] md:py-16 py-44 relative flex justify-center">
         <div className="grid grid-cols-1 md:grid-cols-4 p-6 w-full max-w-screen-xl mx-[auto] shadow-md bg-white absolute bottom-10 rounded-xl border-orange-300 border border-dotted ">
           <Fade bottom>
             <div>
