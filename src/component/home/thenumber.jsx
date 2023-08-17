@@ -27,7 +27,7 @@ const Thenumber = () => {
         },
     ]
   return (
-      <div className='bg-[#201F1D] py-28 mb-6 relative px-3'>
+      <div className='bg-[#201F1D] py-28 relative px-3'>
           <img className='hidden lg:block absolute w-full max-w-[200px] top-2 -left-20' src="nbrCar.png" alt="" />
           <div className='text-center'>
               

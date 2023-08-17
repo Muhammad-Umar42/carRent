@@ -3,6 +3,7 @@ import CarType from "@/component/home/cartype";
 import Howworks from "@/component/home/howworks";
 import Pickup from "@/component/home/pickup&return";
 import PopularCar from "@/component/home/popularCar";
+import RecommendedCar from "@/component/home/recommendedCar";
 import Thenumber from "@/component/home/thenumber";
 
 export default function Home() {
@@ -13,7 +14,8 @@ export default function Home() {
       <Howworks />
       <PopularCar />
       <CarType />
-      <Thenumber/>
+      <Thenumber />
+      <RecommendedCar/>
     </>
   );
 }
